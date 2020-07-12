@@ -217,6 +217,7 @@ p {
 /* Section: Clientel */
 #clients .items {
     display: flex;
+    justify-content: center;
 }
 
 #clients .items img {
